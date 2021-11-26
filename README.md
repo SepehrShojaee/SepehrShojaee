@@ -1,8 +1,17 @@
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/SepehrShojaee/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/SepehrShojaee)
+![](https://komarev.com/ghpvc/?username=SepehrShojaee)
 <h1 align="center">Hi, I'm Sepehr Shojaee👋
+ <!--[![Resume Badge](https://img.shields.io/badge/CV-Resume-informational?style=flat&logo=book&logoColor=white&color=important)](https://github.com/SepehrShojae/Resume)
+-->
 </h1>
 <h5 align="center">the future depends on what you do today
 </h5>
- 
+
+Graduated with a bachelor's degree in computer software engineering with +5 years of professional experience and committed to providing high-quality service to every project focusing on efficiency, learning, and teamwork while consistently performing in different challenging environments.
+I'm a self-Motivated Software Developer. I have around one decades of experience in the software industry.
+Sometimes I give consultation to the startups or cooperate with them. In recent past years, I dedicated part of my life to help the growth of entrepreneurship and startups ecosystem in my city. I like to work with professionals and learn from them. 
 
 <p align="center">
  <a href="https://www.linkedin.com/in/SepehrShojaee/" target="_blank">
@@ -38,7 +47,6 @@
 -   📫 Email: 3pehr.Shojaee@gmail.com
 -   :globe_with_meridians: Website: https://www.SepehrShojaee.com
 
--   ![](https://komarev.com/ghpvc/?username=SepehrShojaee)
     </br>
 
 <p align="center">
