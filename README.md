@@ -39,10 +39,11 @@ Sometimes I give consultation to the startups or cooperate with them. In recent 
 <img src="https://github.com/SepehrShojaee/SepehrShojaee/blob/main/Images/dot-net.svg" alt="dotNet" width="50" height="50" />
 <img src="https://github.com/SepehrShojaee/SepehrShojaee/blob/main/Images/mssql.svg" alt="MSSql" width="50" height="50" />
 <img src="https://github.com/SepehrShojaee/SepehrShojaee/blob/main/Images/mysql.svg" alt="MySQL" width="50" height="50" />
+<img src="https://github.com/SepehrShojaee/SepehrShojaee/blob/main/Images/NET_Core_Logo.svg" alt="dotNetCore" width="50" height="50" />
 
 </p>
 
--   💬 Ask me about: .NET(C#), ASP.NET, MVC, HTML, CSS, MySql, MSSQL 
+-   💬 Ask me about:  .NetCore, .NET(C#), Clean Architecture, MVC, HTML, CSS, MySql, MSSQL 
 -   👯 I’m looking to collaborate on: .NET projects
 -   📫 Email: 3pehr.Shojaee@gmail.com
 -   :globe_with_meridians: Website: https://www.SepehrShojaee.com
