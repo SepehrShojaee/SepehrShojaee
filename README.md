@@ -50,9 +50,4 @@ Sometimes I give consultation to the startups or cooperate with them. In recent 
 
     </br>
 
-<p align="center">
- <a href="#" alt="Sepehr Shojaee's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=SepehrShojaee&theme=tokyonight&show_icons=true" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrShojaee" /> -->
- </a>
-</p>
+
