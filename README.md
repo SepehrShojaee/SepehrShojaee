@@ -9,9 +9,11 @@
 <h5 align="center">the future depends on what you do today
 </h5>
 
-Graduated with a bachelor's degree in computer software engineering with +5 years of professional experience and committed to providing high-quality service to every project focusing on efficiency, learning, and teamwork while consistently performing in different challenging environments.
-I'm a self-Motivated Software Developer. I have around one decades of experience in the software industry.
-Sometimes I give consultation to the startups or cooperate with them. In recent past years, I dedicated part of my life to help the growth of entrepreneurship and startups ecosystem in my city. I like to work with professionals and learn from them. 
+Graduated with a bachelor’s degree in computer software engineering with +5 years of professional experience and committed to providing high-quality service to every project, focusing on efficiency, learning, and teamwork while consistently performing in challenging environments.
+
+I’m a self-motivated Software Developer with nearly a decade of experience in the software industry. Sometimes I provide consulting services to startups or collaborate with them. In recent years, I have dedicated part of my life to supporting the growth of entrepreneurship and the startup ecosystem in my city. I enjoy working with professionals and learning from them.
+
+Currently, I am actively involved in research and development of AI models, focusing on practical and scalable applications.
 
 <p align="center">
  <a href="https://www.linkedin.com/in/SepehrShojaee/" target="_blank">
