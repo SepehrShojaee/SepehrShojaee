@@ -11,7 +11,10 @@
 
 Graduated with a bachelor’s degree in computer software engineering with +5 years of professional experience and committed to providing high-quality service to every project, focusing on efficiency, learning, and teamwork while consistently performing in challenging environments.
 
-I’m a self-motivated Software Developer with nearly a decade of experience in the software industry. Sometimes I provide consulting services to startups or collaborate with them. In recent years, I have dedicated part of my life to supporting the growth of entrepreneurship and the startup ecosystem in my city. I enjoy working with professionals and learning from them.
+I’m a self-motivated Software Developer with nearly a decade of experience in the software industry.
+Sometimes I provide consulting services to startups or collaborate with them. In recent years, I have dedicated part of my life to supporting the growth of entrepreneurship and the startup ecosystem in my city.
+
+I enjoy working with professionals and learning from them.
 
 Currently, I am actively involved in research and development of AI models, focusing on practical and scalable applications.
 
