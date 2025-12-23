@@ -52,7 +52,7 @@ Currently, I am actively involved in research and development of AI models, focu
 </p>
 
 -   💬 Ask me about:  .NetCore, .NET(C#), Clean Architecture, MVC, HTML, CSS, MySql, MSSQL 
--   👯 I’m looking to collaborate on: .NET projects
+-   👯 I’m looking to collaborate on: .NET,Angular projects
 -   📫 Email: 3pehr.Shojaee@gmail.com
 -   :globe_with_meridians: Website: https://www.SepehrShojaee.com
 
