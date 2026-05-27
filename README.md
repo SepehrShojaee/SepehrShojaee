@@ -40,6 +40,7 @@ Currently, I am actively involved in research and development of AI models, focu
 <img src="https://github.com/SepehrShojaee/SepehrShojaee/blob/main/Images/mssql.svg" alt="MSSql" width="50" height="50" />
 <img src="https://github.com/SepehrShojaee/SepehrShojaee/blob/main/Images/mysql.svg" alt="MySQL" width="50" height="50" />
 <img src="https://github.com/SepehrShojaee/SepehrShojaee/blob/main/Images/angular.svg" alt="angular" width="50" height="50" />
+<img src="https://github.com/SepehrShojaee/SepehrShojaee/blob/main/Images/react.svg" alt="react" width="50" height="50" />
 
 
 </p>
