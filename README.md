@@ -1,6 +1,5 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/SepehrShojaee/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/SepehrShojaee)
 ![](https://komarev.com/ghpvc/?username=SepehrShojaee)
 <h1 align="center">Hi, I'm Sepehr Shojaee👋
  <!--[![Resume Badge](https://img.shields.io/badge/CV-Resume-informational?style=flat&logo=book&logoColor=white&color=important)](https://github.com/SepehrShojae/Resume)
