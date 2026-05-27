@@ -21,12 +21,6 @@ Currently, I am actively involved in research and development of AI models, focu
  <a href="https://www.linkedin.com/in/SepehrShojaee/" target="_blank">
   <img src="https://github.com/saifaustcse/saif/blob/main/images/linkedin.svg" alt="linkedin" width="40" height="40" />
  </a>
- 
-
-<a href="https://twitter.com/SepehrShojaee" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
- </a>
-
 </p>
  
 <p align="center">
