@@ -36,9 +36,7 @@ Currently, I am actively involved in research and development of AI models, focu
 <img src="https://github.com/SepehrShojaee/SepehrShojaee/blob/main/Images/csharp.svg" alt="csharp" width="50" height="50" />
 <img src="https://github.com/SepehrShojaee/SepehrShojaee/blob/main/Images/dot-net.svg" alt="dotNet" width="50" height="50" />
 <img src="https://github.com/SepehrShojaee/SepehrShojaee/blob/main/Images/NET_Core_Logo.svg" alt="dotNetCore" width="50" height="50" />
-<img src="https://github.com/SepehrShojaee/SepehrShojaee/blob/main/Images/blazor.svg" alt="blazor" width="50" height="50" />
 <img src="https://github.com/SepehrShojaee/SepehrShojaee/blob/main/Images/mssql.svg" alt="MSSql" width="50" height="50" />
-<img src="https://github.com/SepehrShojaee/SepehrShojaee/blob/main/Images/mysql.svg" alt="MySQL" width="50" height="50" />
 <img src="https://github.com/SepehrShojaee/SepehrShojaee/blob/main/Images/react.svg" alt="react" width="50" height="50" />
 
 
